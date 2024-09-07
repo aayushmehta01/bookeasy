@@ -1,0 +1,3 @@
+[submodule "bookingapp-api"]
+	path = bookingapp-api
+	url = https://github.com/aayushmehta01/bookingapp-api.git
