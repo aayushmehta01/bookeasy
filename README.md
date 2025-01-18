@@ -38,7 +38,7 @@ Ensure that you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository_url>
+   git clone --recurse-submodules https://github.com/aayushmehta01/bookeasy.git
    cd <project_directory>
    ```
 
@@ -47,7 +47,7 @@ Ensure that you have the following installed:
    Navigate to the **frontend** directory and run:
 
    ```bash
-   cd frontend
+   cd bookingapp-frontend
    npm install
    ```
 
@@ -56,7 +56,7 @@ Ensure that you have the following installed:
    Navigate to the **backend** directory and run:
 
    ```bash
-   cd backend
+   cd bookingapp-api
    npm install
    ```
 
