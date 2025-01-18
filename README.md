@@ -1,6 +1,8 @@
 
 # 🏨 Hotel Booking App
 
+---
+
 ## 📜 Description
 
 The **Hotel Booking App** is a web application that allows users to search for hotels based on the city, filter them by price, view hotel photos, authenticate users, reset passwords via email, and book rooms. The application is built using the **MERN stack** (MongoDB, Express, React, Node.js) with **Nodemailer** for sending emails.
@@ -47,7 +49,7 @@ Ensure that you have the following installed:
    Navigate to the **frontend** directory and run:
 
    ```bash
-   cd bookingapp-frontend
+   cd <bookingapp-frontend>
    npm install
    ```
 
@@ -56,7 +58,7 @@ Ensure that you have the following installed:
    Navigate to the **backend** directory and run:
 
    ```bash
-   cd bookingapp-api
+   cd <bookingapp-api>
    npm install
    ```
 
